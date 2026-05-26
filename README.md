@@ -2,14 +2,15 @@
 
 Custom 40A (Burst 50A) ESC for
 F5J competition glider
+
 ESC Features:
-4-layer, 40A continuous / 50A burst 3-phase ESC design
-Supports up to 6S LiPo battery
-Integrated BEC for receiver / avionics power
-Designed for lightweight, high-efficiency F5J glider applications
-Low-EMI switching architecture
-High-current copper layout with optimized thermal path
-Gold-plated motor outputs (U-V-W)
+• 4-layer, 40A continuous / 50A burst 3-phase ESC design
+• Supports up to 6S LiPo battery
+• Integrated BEC for receiver / avionics power
+• Designed for lightweight, high-efficiency F5J glider applications
+• Low-EMI switching architecture
+• High-current copper layout with optimized thermal path
+• Gold-plated motor outputs (U-V-W)
 
 
 
